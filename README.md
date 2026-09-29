@@ -46,6 +46,3 @@ I founded and managed MindTech Academy (2023–2025), growing its robotics progr
 - **M.Sc. Mobile Robotics**, University of Bonn — October 2025–present
 - **B.Sc. Mechatronics Engineering**, Mansoura University — 2020–2025
 
----
-
-Archived hoverboard firmware forks are kept as reference repositories, with credit to their original authors. They are separate from the projects described above.
