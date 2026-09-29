@@ -1,8 +1,6 @@
-# Hi, I’m Ali Shoman
+# Welcome
 
-**Embedded systems student | MTE, MU**
-
-Welcome to my GitHub. I’m preparing this space to share my projects and document what I build and learn.
+I’m preparing this space to share my projects and document what I build and learn.
 
 ## Projects
 
@@ -10,4 +8,4 @@ My own projects will be added here as they are published, with an overview, setu
 
 ## Reference repositories
 
-My archived hoverboard firmware forks are retained as references, with credit to their original authors. They are separate from my original projects.
+My four archived hoverboard firmware forks are retained as references, with credit to their original authors. They are separate from my original projects.
