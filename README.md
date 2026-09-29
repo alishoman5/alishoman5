@@ -6,27 +6,22 @@ I work across robotics software, embedded firmware, and hardware design. My inte
 
 [LinkedIn](https://www.linkedin.com/in/alishoman5)
 
-## Selected projects
+## Three projects for robotics roles
 
-I’m preparing the repositories and documentation for the projects below. Code and project links will be added as they are published.
+These projects show perception and sensor integration, autonomous navigation, and the integration of hardware with working robot systems. I’m preparing dedicated repositories and documentation; code links will be added when published.
 
 ### LiDAR-Based Trajectory Estimation Toolbox | 2026–present
 LiDAR-inertial SLAM work using an Ouster OS1-128 LiDAR and SBG Ellipse-D IMU. Includes benchmarking LIO-SAM against FAST-LIO2 and KISS-ICP, setting up ROS pipelines, reverse-engineering the SBG binary format, and writing custom PCAP-to-ROS converters.
 
+### Micromouse | 2023
+Built a 12 × 9 cm autonomous robot with closed-loop navigation, a custom PCB chassis, and a flood-fill maze-solving algorithm. **2nd place at IEEE VICTORIS V2.0.**
+
 ### Remotely Operated Underwater Vehicle | 2025
 Graduation project, graded Excellent. My work covered SolidWorks mechanical design, a waterproof chassis and electronics enclosure, thruster mounts, ESP32-based power distribution and thruster control, underwater sensors, and real-time video streaming.
 
-### Smart Farm | 2024
-IoT agriculture system with an ESP32 multi-sensor node, I2C/SPI/ADC interfaces, LoRa/Wi-Fi communication, and a Python data pipeline. **3rd worldwide in the Solutions to Climate Change category of the IEEE SSCS Arduino Contest.**
-
-### Battery Capacity Tester | 2024
-Embedded battery-testing system with a custom PCB, bare-metal C firmware, PWM load control, and ADC measurement. Includes a Python pipeline using NumPy, pandas, and scikit-learn for discharge-data optimisation; contributed to published research.
-
-**Other builds:** a micromouse with flood-fill navigation and a custom PCB chassis, combat and sumo robots, a search-and-rescue explorer robot, and an Arduino CNC typing machine.
-
 ## Technical skills
 
-- **Programming:** Python, C / Embedded C, Basic C++, Git, Linux
+- **Programming:** Python, C / Embedded C, basic C++, Git, Linux
 - **Robotics:** ROS pipelines, LiDAR-inertial SLAM, KISS-ICP, LIO-SAM, FAST-LIO2
 - **Embedded & hardware:** ESP32, Arduino, PCB design, I2C, SPI, ADC, PWM, LoRa, Wi-Fi
 - **Design:** SolidWorks (CSWA), Autodesk Inventor / Fusion 360, EasyEDA, Proteus
@@ -45,3 +40,7 @@ I founded and managed MindTech Academy (2023–2025), growing its robotics progr
 
 - **M.Sc. Mobile Robotics**, University of Bonn — October 2025–present
 - **B.Sc. Mechatronics Engineering**, Mansoura University — 2020–2025
+
+---
+
+Archived hoverboard firmware forks are kept as reference repositories, with credit to their original authors. They are separate from the projects described above.
