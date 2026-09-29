@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Ali Shoman
 
-<!--
-**alishoman5/alishoman5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded systems student | MTE, MU**
 
-Here are some ideas to get you started:
+Welcome to my GitHub. I’m preparing this space to share my projects and document what I build and learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+My own projects will be added here as they are published, with an overview, setup instructions, and supporting documentation.
+
+## Reference repositories
+
+My archived hoverboard firmware forks are retained as references, with credit to their original authors. They are separate from my original projects.
