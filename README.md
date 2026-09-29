@@ -26,7 +26,7 @@ Embedded battery-testing system with a custom PCB, bare-metal C firmware, PWM lo
 
 ## Technical skills
 
-- **Programming:** Python, C / Embedded C, basic C++, Git, Linux
+- **Programming:** Python, C / Embedded C, Basic C++, Git, Linux
 - **Robotics:** ROS pipelines, LiDAR-inertial SLAM, KISS-ICP, LIO-SAM, FAST-LIO2
 - **Embedded & hardware:** ESP32, Arduino, PCB design, I2C, SPI, ADC, PWM, LoRa, Wi-Fi
 - **Design:** SolidWorks (CSWA), Autodesk Inventor / Fusion 360, EasyEDA, Proteus
@@ -45,7 +45,3 @@ I founded and managed MindTech Academy (2023–2025), growing its robotics progr
 
 - **M.Sc. Mobile Robotics**, University of Bonn — October 2025–present
 - **B.Sc. Mechatronics Engineering**, Mansoura University — 2020–2025
-
----
-
-Archived hoverboard firmware forks are kept as reference repositories, with credit to their original authors. They are separate from the projects described above.
